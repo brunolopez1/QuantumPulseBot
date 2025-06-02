@@ -37,18 +37,6 @@ It’s my way of saying: **you don’t have to be an expert to start** — and m
 
 ---
 
-## Looking Ahead
-
-QuantumPulse Bot is still in early development, but with your help, it can grow into something better. I plan to:
-
-- Add more moderation and utility features.
-- Improve error handling and performance.
-- Keep the codebase clean and educational.
-
-This bot will always remain free, open, and community-driven.
-
----
-
 ## Want to Help?
 
 I’m actively learning, and I’d love to learn with you. If you’d like to collaborate:
@@ -56,6 +44,17 @@ I’m actively learning, and I’d love to learn with you. If you’d like to co
 - Open issues for bugs or ideas.
 - Create pull requests with improvements.
 - Give feedback or suggestions — it all helps!
+
+---
+
+## Legal Notice
+
+By using this bot, you agree to the terms outlined in the following documents:
+
+- [Privacy Policy](PRIVACY_POLICY.md)
+- [Terms of Service](TERMS_OF_SERVICE.md)
+
+Please read them carefully before deploying or interacting with the bot, especially in public or production environments.
 
 ---
 
